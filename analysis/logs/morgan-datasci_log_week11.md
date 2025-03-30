@@ -13,7 +13,8 @@ Buds:
 •	Beginning trend analysis soon!
 
 Thorns:
-•	Having issues with creating the new DFs 
+•	Having issues with creating the new DFs - I must be missing something iterating through the dictionaries
+        If I can't get the for-loop to work, I may just write some manual code (ugly, but it'll work)
 •	Teammates missed our weekly sync with Sean. This is the second time they’ve missed a Sean sync.
 •	I missed one of our team syncs, rescheduled to the following day
 •	I had low availability this week due to 2 assignments in my other (1) course, otherwise I would’ve made more coding headway. 
