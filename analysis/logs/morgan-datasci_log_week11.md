@@ -10,7 +10,7 @@ Roses:
 
 •	Data cleaning – performed some additional data cleaning based on Sean’s suggestions from the week before
 
-        Accomplished: getting rid of: honors, independent study, class status code
+    Accomplished: getting rid of: honors, independent study, class status code
 
 •	(Ram Teja began some KDD for our defined modalities) this will allow me to start working on trend analysis over the weekend
 
@@ -25,7 +25,7 @@ Thorns:
 
 •	Having issues with creating the new DFs - I must be missing something iterating through the dictionaries
 
-        If I can't get the for-loop to work, I may just write some manual code (ugly, but it'll work)
+     If I can't get the for-loop to work, I may just write some manual code (ugly, but it'll work)
 
 •	Teammates missed our weekly sync with Sean. This is the second time they’ve missed a Sean sync.
 
