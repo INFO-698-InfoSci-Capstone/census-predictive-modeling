@@ -15,9 +15,12 @@ This repository is organized as a reproducible research compendium. Future updat
     analysis/
     |
     ├── logs/
-    │   └── log.md          # log of any progress or relevant information
+    │   └── log.md                 # log of any progress or relevant information
     |
-    ├── figures/            # location of the figures produced for the manuscript
+    ├── figures/                   # location of the figures produced for the manuscript
+    |
+    ├── Data Cleaning and KDD/     # notebook and work for data prep, cleaning, and exploratory analysis
+    │   └── Capstone_Data KDD.ipynb
     |
     ├── data/
     |   ├── rawData/        # data obtained from elsewhere
