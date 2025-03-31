@@ -19,8 +19,11 @@ This repository is organized as a reproducible research compendium. Future updat
     |
     ├── figures/                   # location of the figures produced for the manuscript
     |
-    ├── 1. Data Cleaning and KDD/     # notebook and work for data prep, cleaning, and exploratory analysis
+    ├── 1. Data Cleaning and KDD/  # notebook and work for data prep, cleaning, and exploratory analysis
     │   └── Capstone_Data KDD.ipynb
+    |
+    ├── 2. KDD by Modality/        # notebook for KDD by Modality
+    │   └── Capstone_Analysis_Modality KDD.ipynb
     |
     ├── data/
     |   ├── rawData/        # data obtained from elsewhere
