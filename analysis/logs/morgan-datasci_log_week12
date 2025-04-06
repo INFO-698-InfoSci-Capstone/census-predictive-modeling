@@ -1,0 +1,16 @@
+Week 12, Morgan Godley:
+
+Roses:
+•	Data Cleansing (when we were going to stay as a group) was completed! Four major updates for the week, 3 are new DFs & 1 for data cleaning. Figured out splitting into Grad/Undergrad (took just the 1st index this time, converted that into a float, and split by above/below #5. Originally was splitting by above/below 500 & it just wasn't working). Also created In-Person/Online DF splits. AND created Grad/Ugrad by Inperson/Online. Also fixed the filted for removing Independent Study / Honor / T classes.
+•	GitHub: got everything uploaded to GitHub (took a while to figure it out)
+•	Began the KDD by Modality
+
+Buds:
+•	Looking forward to working on this project solo
+
+Thorns: 
+•	Team Dynamics: Our team faced significant communication and collaboration challenges. Each week, there were issues such as teammates going unresponsive to both me and Sean. In terms of contribution, there were several concerns:
+    •	Both teammates expressed they couldn’t assist with data cleansing due to lack of experience.
+    •	There were noticeable gaps in foundational skills, including forming a research question and correctly formatting APA citations. They also repeatedly mentioned not understanding project expectations. To support them, we spent an hour clearly outlining responsibilities. During this meeting, they claimed to have already completed half of the KDD analysis by modality.
+    •	Unfortunately, progress on the coding side did not reflect this. None of the KDD by modality had been completed, and instead, they created a separate CSV and ran models without filtering by modality.
+•	My fear was that the bulk of the work would end up on me. Even after providing explanations, their work often didn’t align with expectations, requiring constant clarification and rework.
