@@ -8,4 +8,4 @@ Buds:
    * Received data from Sean to complete Instructor Load Factor & Prerequisite Complexity Score.
 
 Thorns:
-   *I'm a little concerned about starting the Course Bottleneck Index, after spending ~60 hours on the code for preparing our trend analysis. I shared my concerns with my mentor. At this point, I figure CBI is "just another model" I would've built anyway. I will dive into the CBI scope this weekend & feel hopeful that the work I've already completed will be harmonious with the new CBI expectation.
+   * I'm a little concerned about starting the Course Bottleneck Index, after spending 60+ hours on the code for preparing our trend analysis. I shared my concerns with my mentor. At this point, I figure CBI is "just another model" I would've built anyway. I will dive into the CBI scope this weekend & feel hopeful that the work I've already completed will be harmonious with the new CBI expectation.
