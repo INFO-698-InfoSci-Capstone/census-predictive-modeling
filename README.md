@@ -22,8 +22,9 @@ This repository is organized as a reproducible research compendium. Future updat
     ├── 1. Data Cleaning and KDD/  # notebook and work for data prep, cleaning, and exploratory analysis
     │   └── Capstone_Data KDD.ipynb
     |
-    ├── 2. KDD by Modality/        # KDD Analysis by Modality
-    │   └── Capstone_Analysis_Modality KDD.ipynb
+    ├── 2. Modality KDD & Analysis/                    # Modality KDD & Trend Analysis
+    │   ├── Capstone_Modality KDD.ipynb                # Modality KDD
+    │   └── Capstone_Modality Trend Analysis.ipynb     # Modality Trend Analysis
     |
     ├── 3. CBI Analysis/            # CBI Analysis
     │   └── Capstone_CBI Analysis.ipynb
