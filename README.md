@@ -15,15 +15,18 @@ This repository is organized as a reproducible research compendium. Future updat
     analysis/
     |
     ├── logs/
-    │   └── log.md                 # log of any progress or relevant information
+    │   └── log.md                 # weekly progress logs
     |
     ├── figures/                   # location of the figures produced for the manuscript
     |
     ├── 1. Data Cleaning and KDD/  # notebook and work for data prep, cleaning, and exploratory analysis
     │   └── Capstone_Data KDD.ipynb
     |
-    ├── 2. KDD by Modality/        # notebook for KDD by Modality
+    ├── 2. KDD by Modality/        # KDD Analysis by Modality
     │   └── Capstone_Analysis_Modality KDD.ipynb
+    |
+    ├── 3. CBI Analysis/            # CBI Analysis
+    │   └── Capstone_CBI Analysis.ipynb
     |
     ├── data/
     |   ├── rawData/        # data obtained from elsewhere
