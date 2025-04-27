@@ -22,12 +22,13 @@ This repository is organized as a reproducible research compendium. Future updat
     ├── 1. Data Cleaning and KDD/  # notebook and work for data prep, cleaning, and exploratory analysis
     │   └── Capstone_Data KDD.ipynb
     |
-    ├── 2. Modality KDD & Analysis/                    # Modality KDD & Trend Analysis
+    ├── 2. Modality KDD & Analysis/                    # Modality KDD & Trend Analysis (project pivoted to CBI analysis
     │   ├── Capstone_Modality KDD.ipynb                # Modality KDD
-    │   └── Capstone_Modality Trend Analysis.ipynb     # Modality Trend Analysis
+    │   └── Capstone_Modality Trend Analysis.ipynb     # Modality Trend Analysis (project pivoted to CBI, did not complete Trend Analysis by Modality)
     |
-    ├── 3. CBI Analysis/            # CBI Analysis
-    │   └── Capstone_CBI Analysis.ipynb
+    ├── 3. CBI Analysis/                               # CBI: Course Bottleneck Index         
+    │   ├── Capstone_CBI Analysis.ipynb                        # CBI Analysis, Weight Analysis
+    │   └── Capstone_CBI Analysis_Actionable Insights.ipynb    # Actionable Insights based on CBI Analysis
     |
     ├── data/
     |   ├── rawData/        # data obtained from elsewhere
