@@ -8,7 +8,7 @@
 
 
 ## Overview
-This repository is organized as a reproducible research compendium. Future updates to this compendium will include a Dockerfile and Binder Container
+This repository is organized as a reproducible research compendium. 
 
 ## File Organization
 
@@ -16,8 +16,6 @@ This repository is organized as a reproducible research compendium. Future updat
     |
     ├── logs/
     │   └── log.md                 # weekly progress logs
-    |
-    ├── figures/                   # location of the figures produced for the manuscript
     |
     ├── 1. Data Cleaning and KDD/  # notebook and work for data prep, cleaning, and exploratory analysis
     │   └── Capstone_Data KDD.ipynb
@@ -31,8 +29,7 @@ This repository is organized as a reproducible research compendium. Future updat
     │   └── Capstone_CBI Analysis_Actionable Insights.ipynb    # Actionable Insights based on CBI Analysis
     |
     ├── data/
-    |   ├── rawData/        # data obtained from elsewhere
-    │   └── derivedData/    # data generated from rawData/ and scripts.*
+    |   └── README.md/        # download necessary data from Box, links provided. 
     |   
     └── supplementaryMaterials/
         ├── supplementaryFigures/     
@@ -40,8 +37,12 @@ This repository is organized as a reproducible research compendium. Future updat
         └── supplementaryTables/      
                             # supplementary tables for the main manuscript 
     
-    R/Python/etc.           # scripts to run in the following order (also see associated README.md)
-        └── script.*        # hypothetical script used to wrangle the raw data, produce figures, analyses, and supplementary materials
+    Python Jupyter Notebooks.                      # scripts to run in the following order 
+        ├── Capstone_Data KDD.ipynb                # Data Cleaning & Preparing DFs by Modality
+        ├── Capstone_Modality KDD.ipynb            # KDD for Modality (original project, before CBI)
+        ├── Capstone_Modality Trend Analysis.ipynb # Modality Tend Analysis (original project, before CBI) has Time & Days graphs
+        ├── Capstone_CBI Analysis.ipynb            # CBI analysis: calculates factors, weights, CBI
+        └── Capstone_CBI Analysis_Actionable Insights.ipynb    # Identifying Hard-to-Access Courses & Underlying Factors Why
 
         
 
