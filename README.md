@@ -4,6 +4,7 @@
 
 ## A compendium of code, data, and author's manuscript accompanying the manuscript:
 Enrollment Bottleneck Analysis: Identifying Difficult-to-Access Courses in Undergraduate Information Science capstone project. 
+Author: Morgan Godley
 
 ## Overview
 Course accessibility is essential for supporting student engagement and ensuring timely graduation. However, some undergraduate Information Science courses experience enrollment bottlenecks such as infrequent offering, limited instructor availability, and high student demand. This project introduces the Course Bottleneck Index (CBI) as a composite metric to identify and analyze these high-barrier courses across multiple semesters. By tracking CBI trends and contributing factors, we aim to highlight structural challenges and inform strategic scheduling decisions.
