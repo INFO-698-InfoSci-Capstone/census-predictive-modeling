@@ -3,9 +3,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## A compendium of code, data, and author's manuscript accompanying the manuscript:
-
-#### TBD
-
+Enrollment Bottleneck Analysis: Identifying Difficult-to-Access Courses in Undergraduate Information Science capstone project. 
 
 ## Overview
 This repository is organized as a reproducible research compendium. 
