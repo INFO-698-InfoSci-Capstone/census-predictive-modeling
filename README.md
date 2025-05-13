@@ -12,9 +12,6 @@ This repository is organized as a reproducible research compendium.
 
     analysis/
     |
-    ├── logs/
-    │   └── log.md                 # weekly progress logs
-    |
     ├── 1. Data Cleaning and KDD/  # notebook and work for data prep, cleaning, and exploratory analysis
     │   └── Capstone_Data KDD.ipynb
     |
@@ -28,12 +25,9 @@ This repository is organized as a reproducible research compendium.
     |
     ├── data/
     |   └── README.md/        # download necessary data from Box, links provided. 
-    |   
-    └── supplementaryMaterials/
-        ├── supplementaryFigures/     
-        |                   # supplementary figures for the main manuscript
-        └── supplementaryTables/      
-                            # supplementary tables for the main manuscript 
+    | 
+    └──  logs/
+        └── log.md            # weekly progress logs
     
     Python Jupyter Notebooks.                      # scripts to run in the following order 
         ├── Capstone_Data KDD.ipynb                # Data Cleaning & Preparing DFs by Modality
