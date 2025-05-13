@@ -1,7 +1,7 @@
 # README for data used in census-predictive-modeling
 
 ## Overview 
-Data used for Enrollment Bottleneck Analysis: Identifying Difficult-to-Access Courses in Undergraduate Information Science capstone project
+Data used for Enrollment Bottleneck Analysis: Identifying Difficult-to-Access Courses in Undergraduate Information Science capstone project. Data sources must be downloaded at two points for code to run.
 ***
 
 ## All Data
