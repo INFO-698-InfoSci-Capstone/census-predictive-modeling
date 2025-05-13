@@ -21,7 +21,7 @@ Box Includes Folders:
 3. CBI Analysis > "Capstone_CBI Analysis.ipynb"
  * Must have a saved folder "CBI Analysis" in your Jupyter Notebook folder with the original data provided by UA
  * Source for download: https://arizona.box.com/s/r086ydcdxc1f328nee8z6ksbpeh9gqqc
- * Note - 2. Modality KDD & Analysis > "Capstone_Modality KDD.ipynb" should already make a folder for you "CBI Analysis" with df_all.xlsx exported into the folder. *What needs to be downloaded from Box* is the 2 new files for CBI analysis: 1) "2022_2025_Faculty Load Analysis w. Class # - CLEANED" and 2) "Course List w. Pre-Reqs"
+ * Note - 2. Modality KDD & Analysis > "Capstone_Modality KDD.ipynb" should already make a folder for you "CBI Analysis" with df_all.xlsx exported into the folder. **What needs to be downloaded from Box is the 2 new files for CBI analysis**: 1) "2022_2025_Faculty Load Analysis w. Class # - CLEANED" and 2) "Course List w. Pre-Reqs"
 
 ## Folder Map: Folders Needed-for & Created-by per .ipynb Notebook
 
