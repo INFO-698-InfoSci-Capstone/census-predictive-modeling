@@ -25,33 +25,30 @@ Box Includes Folders:
 
 ## Folder Map: Folders Needed-for & Created-by per .ipynb Notebook
 
-Begin: have a saved folder "Capstone Project Data" in your Jupyter Notebook folder with the original data provided by UA
-  > Source for download: https://arizona.box.com/s/co2vlp5aie9mb0gd1rrrb0t65kqza2vy
+ * Begin: have a saved folder "Capstone Project Data" in your Jupyter Notebook folder with the original data provided by UA
+     * Source for download: https://arizona.box.com/s/co2vlp5aie9mb0gd1rrrb0t65kqza2vy
 
-1. Data Cleaning and KDD
-   > "Capstone_Data KDD.ipynb"
-   Input Folder: "Capstone Project Data" (saved from Box)
-   Output Folder: Capstone Project Data_Cleaned
+1. Data Cleaning and KDD > "Capstone_Data KDD.ipynb"
+ * Input Folder: "Capstone Project Data" (saved from Box)
+ * Output Folder: Capstone Project Data_Cleaned
 
-2. Modality KDD & Analysis
-   > "Capstone_Modality KDD.ipynb"
-   Input Folder: Capstone Project Data_Cleaned, created above
-   Output Folder #1: Modality Trends
-   Output Folder #2: CBI Analysis
+2. Modality KDD & Analysis > "Capstone_Modality KDD.ipynb"
+ * Input Folder: Capstone Project Data_Cleaned, created above
+ * Output Folder #1: Modality Trends
+ * Output Folder #2: CBI Analysis
    
-   > "Capstone_Modality Trend Analysis.ipynb"
-   Input Folder: Modality Trends, created above
-   N/A Output Folder
+2. Modality KDD & Analysis > "Capstone_Modality KDD.ipynb"> "Capstone_Modality Trend Analysis.ipynb"
+ * Input Folder: Modality Trends, created above
+ * N/A Output Folder
 
-3. CBI Analysis
-   > "Capstone_CBI Analysis.ipynb"
-   Input Folder: CBI Analysis, created above (2. Modality KDD & Analysis > "Capstone_Modality KDD.ipynb")
+4. CBI Analysis > "Capstone_CBI Analysis.ipynb"
+ * Input Folder: CBI Analysis, created above (2. Modality KDD & Analysis > "Capstone_Modality KDD.ipynb")
      * **NOTE:** must save Faculty Load & Pre-Req documents from Box into this CBI Analysis Folder
      * Source for download: https://arizona.box.com/s/r086ydcdxc1f328nee8z6ksbpeh9gqqc
-   Output Folder: CBI Analysis_Actionable Insights
+ * Output Folder: CBI Analysis_Actionable Insights
 
-   > "Capstone_CBI Analysis_Actionable Insights.ipynb"
-   Input Folder: CBI Analysis_Actionable Insights
-   Output Folder: CBI Analysis_Actionable Insights_Final Findings
+4. CBI Analysis > "Capstone_CBI Analysis_Actionable Insights.ipynb"
+ * Input Folder: CBI Analysis_Actionable Insights
+ * Output Folder: CBI Analysis_Actionable Insights_Final Findings
 
 ***
