@@ -6,7 +6,7 @@ Data used for Enrollment Bottleneck Analysis: Identifying Difficult-to-Access Co
 
 ## All Data
 All Data Lives in Box: https://arizona.box.com/s/41zintju69iar5eftnn7cm8lwe04d5iv
-Access has been granted to Dr Chism & aligned College of InfoSci Staff
+ * Access has been granted to Dr Chism & aligned College of InfoSci Staff
 
 Box Includes Folders:
  * Folders The Code Should Create - this contains all the outputs by folder the code should create as you flow through the 5 notebooks. These are for reference.
