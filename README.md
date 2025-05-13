@@ -4,6 +4,7 @@
 
 ## A compendium of code, data, and author's manuscript accompanying the manuscript:
 Enrollment Bottleneck Analysis: Identifying Difficult-to-Access Courses in Undergraduate Information Science capstone project. 
+
 Author: Morgan Godley
 
 ## Overview
