@@ -6,7 +6,11 @@
 Enrollment Bottleneck Analysis: Identifying Difficult-to-Access Courses in Undergraduate Information Science capstone project. 
 
 ## Overview
-This repository is organized as a reproducible research compendium. 
+Course accessibility is essential for supporting student engagement and ensuring timely graduation. However, some undergraduate Information Science courses experience enrollment bottlenecks such as infrequent offering, limited instructor availability, and high student demand. This project introduces the Course Bottleneck Index (CBI) as a composite metric to identify and analyze these high-barrier courses across multiple semesters. By tracking CBI trends and contributing factors, we aim to highlight structural challenges and inform strategic scheduling decisions.
+
+This project investigates course accessibility within the undergraduate Information Science program by addressing two key questions:
+1. Which courses are the hardest to access, based on high CBI scores?
+2. Which factors contribute most to enrollment bottlenecks?
 
 ## File Organization
 
