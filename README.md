@@ -1,10 +1,6 @@
-# Project compendium template
+# Enrollment Bottleneck Analysis: 
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-
-## Enrollment Bottleneck Analysis: 
-
-# Identifying Difficult-to-Access Courses in Undergraduate Information Science capstone project 
+## Identifying Difficult-to-Access Courses in Undergraduate Information Science capstone project 
 
 Author: Morgan Godley
 
